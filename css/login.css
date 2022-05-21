@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+}
+h1{
+    color: white;
+    display:inline-block;
+    /*text-align:left;
+    margin-top: 10px;*/
+    margin-left: 8%;
+}
+.glavni{
+    width: 100%;
+    margin-top: 0;
+}
+.button{
+    position:relative;
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.forma{
+    width: 60%;
+    float: right;
+    margin-top: 3rem;
+}
+header{
+    background-color: blue;
+    color: white;
+    /*text-align:center;*/
+}
+.footer{
+    margin-top: 2rem;
+    padding: 1rem 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(23, 7, 247);
+    text-align: center;
+}
+.container2{
+    text-align:center;
+    margin-top: 10px;
+}

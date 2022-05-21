@@ -1,0 +1,71 @@
+header{
+    width: 100%;
+    background-color: blue;
+    color: white;
+    text-align:center;
+    position: relative;
+}
+.h1{
+    position:relative;
+    color: white;
+    display:inline-block;
+    margin-left: 15%;
+    text-align:center;
+}
+
+.button{
+    position:relative;
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.sing_out{ /* -------*/
+    
+    position:relative;
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;  
+    color: rgb(255, 255, 255); 
+}
+
+.glavni{ /* -------*/
+    width: 60%;
+   /* height: 500px;
+   /* border: 1px solid red; /*okvir glavnog diva u profile*/
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    /*text-align: center;  */  
+}
+.personal-information{
+    max-width: 300px; 
+    width: 100%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    position: relative;
+}
+.personal-information .form-group{
+    margin-bottom: 1rem;
+}
+.personal-information .form-group label{
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+.personal-information .form-group input{
+    height: 30px;
+    width: 100%;
+}
+
+.table-reservation{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table-reservation, tr, th, td{
+    border: 1px solid black;
+}
+
+.table-reservation th, .table-reservation td{
+    text-align: center;
+    padding: 1rem;
+}

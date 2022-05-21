@@ -1,0 +1,131 @@
+.sing_out{ 
+    position:relative;
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;  
+    width: 300px;
+    height: 60px; 
+    color: rgb(255, 255, 255); 
+}
+
+.glavni{
+    width: 66%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3rem 0;
+}
+
+.container-add-post{
+    max-width: 300px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-add-post .form-group{
+    margin-bottom: 1rem;
+}
+
+.container-add-post .form-group label{
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+
+.container-add-post .form-group input{
+    height: 30px;
+    width: 100%;
+}
+
+.container-edit-post{
+    max-width: 350px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-edit-post .form-group{
+    margin-bottom: 1rem;
+}
+
+.container-edit-post .form-group label{
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+
+.container-edit-post .form-group input{
+    height: 30px;
+    width: 100%;
+}
+
+.container-edit-post .form-group img{
+    width: 100%;
+    display: block;
+}
+
+.container-edit-post .form-group textarea{
+    width: 100%;
+    height: 250px;
+    display: block;
+}
+
+.view-all-posts{
+    width: 100%;
+    margin-top: 3rem;
+    border-collapse: collapse;
+}
+
+.view-all-posts tr th, .view-all-posts tr td{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.view-all-posts tr td img{
+    width: 100%;
+}
+
+.view-all-sub-posts{
+    width: 100%;
+    margin-top: 3rem;
+    border-collapse: collapse;
+}
+
+.view-all-sub-posts tr th, .view-all-sub-posts tr td{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.view-all-sub-posts tr td img{
+    width: 100%;
+}
+
+.wrapper-equipment{
+    margin-top: 2rem;
+}
+
+.wrapper-equipment > p{
+    font-size: 1.3rem;
+}
+
+.wrapper-equipment .equipment-item{
+    display: flex;
+    align-items: center;
+}
+
+.wrapper-equipment .equipment-item input{
+    text-align: left;
+}
+
+.table-comments{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table-comments, tr, td, th{
+    border: 1px solid black;
+}
+
+.table-comments td, .table-comments th{
+    padding: 0.5rem;
+    text-align: center;
+}

@@ -1,0 +1,159 @@
+body{
+    margin: 0%;
+    padding-top: 0px;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.button{
+    position:relative;
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.glavni{
+    width: 800px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    /*border: 1px solid rgb(253, 4, 4);*/
+}
+.gallery1{
+    margin-top: 10px;
+    float: left;
+    width: 150px;
+    height: 20px;
+   /* position: relative;
+    display: inline;*/
+}
+.mySlides1, .mySlides2 {display: none}
+img {
+    vertical-align: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+/* Slideshow container */
+.slideshow-container {
+  width: 800px;
+  /*height: 600px;*/
+  position: relative;
+  margin: auto;
+  /*border: 1px solid black;*/
+}
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+.opis{
+    width: 800px;
+   /* height: 300px;  /*----------------*/
+    /*border: 1px solid black;*/ 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    position: relative;
+}
+.oobjektu{
+    width: 800px;
+   /* height: 250px;*/
+ /*  border: 1px solid rgb(248, 60, 60);*/
+    display: inline-block;
+    position: relative;
+}
+.rezervacija{
+    width: 800px;
+    height: 50px;
+    /*border: 1px solid black;*/
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-bottom: 20px;
+    display: inline-block;
+    /*float: right;*/
+}
+#rezervisi{
+    width: 120px;
+    height: 50px;
+    background-color: rgb(8, 4, 255);
+    color: white;
+    position: relative;
+    float: right;
+    display: inline;
+    font-size: 20px;
+    /*margin-top: 20px;*/
+
+}
+.opisponude{
+    width: 800px;
+    height: 100px; /*----------------*/
+  /*  border: 1px solid rgb(27, 189, 81);*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    position: relative;
+}
+.utisci{
+    width: 800px;
+    height: 200px;
+  /*  border: 1px solid rgb(3, 3, 3);*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    position: relative;
+}
+h1{
+    position:relative;
+    color: white;
+    display:inline-block;
+    text-align:left;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    top:0;
+    left:0;
+    color: white;
+    text-align:center;
+    position: relative;  
+}
+
+.footer{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(23, 7, 247);
+    position: relative;
+
+}
+.container2{
+    text-align:center;
+    margin-top: 10px;
+}
